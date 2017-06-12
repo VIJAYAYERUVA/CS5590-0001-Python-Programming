@@ -12,18 +12,18 @@ Teaching Assistants: NA
 
 Assignments
 
-Lab Assignment1: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB1A
+Lab Assignment1: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB1
 
-Lab Assignment2: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB2
+Lab Assignment2: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB2
 
-Lab Assignment3: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB3
+Lab Assignment3: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB3
 
-Lab Assignment4: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB4
+Lab Assignment4: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB4
 
-Lab Assignment5: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB5
+Lab Assignment5: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB5
 
-Lab Assignment6: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB6
+Lab Assignment6: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB6
 
-Lab Assignment7: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB7
+Lab Assignment7: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB7
 
-Lab Assignment8: https://github.com/VIJAYAYERUVA/CS5560_KDM/wiki/LAB8
+Lab Assignment8: https://github.com/VIJAYAYERUVA/CS5590-0001-Python-Programming/wiki/LAB8
